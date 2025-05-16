@@ -5,6 +5,7 @@
 - trends_stata.ipynb - код для расчета статистической значимости линейных трендов, построенных ранее в ГИС, по R2
 - quantile_regression.ipynb - код для расчета квантильной регрессии NPP/ NEE внутри выбранных экорегионов за 2001-2024 или 2010-2019
 - LC.ipynb - код для визуализации матриц переходов между классами землепользования за 2001-2024 или 2010-2019 внутри выбранных экорегионов
+- correlation.ipynb - код для расчета корреляции между SPI/температурой с NPP/SR за 2001-2024 или 2010-2019 для выбранных экорегионов
 
 ! Файлов с данными в этом репозитории нет
 
@@ -16,5 +17,6 @@ The repository includes:
 - trends_stata.ipynb - code for calculating the statistical significance of linear trends, obtained earlier in GIS, by R2
 - quantile_regression.ipynb - code for calculating the quantile regression of NPP/NEE within selected ecoregions for 2001-2024 or 2010-2019
 - LC.ipynb - code for visualizing matrices of transitions between landuse classes for 2001-2024 or 2010-2019 within selected ecoregions
+- correlation.ipynb - code for calculating the correlation between SPI/temperature and NPP/SR for 2001-2024 or 2010-2019 for selected ecoregions
 
 ! There are no data files in this repository
