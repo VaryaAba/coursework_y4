@@ -6,6 +6,7 @@
 - quantile_regression.ipynb - код для расчета квантильной регрессии NPP/ NEE внутри выбранных экорегионов за 2001-2024 или 2010-2019
 - LC.ipynb - код для визуализации матриц переходов между классами землепользования за 2001-2024 или 2010-2019 внутри выбранных экорегионов
 - correlation.ipynb - код для расчета корреляции между SPI/температурой с NPP/SR за 2001-2024 или 2010-2019 для выбранных экорегионов
+- quantile_npp.ipynb/ quantile_nee.ipynb - коды на ArcPY для квантильных классификаций данных NPP/NEE за каждый год 
 
 ! Файлов с данными в этом репозитории нет
 
@@ -18,5 +19,6 @@ The repository includes:
 - quantile_regression.ipynb - code for calculating the quantile regression of NPP/NEE within selected ecoregions for 2001-2024 or 2010-2019
 - LC.ipynb - code for visualizing matrices of transitions between landuse classes for 2001-2024 or 2010-2019 within selected ecoregions
 - correlation.ipynb - code for calculating the correlation between SPI/temperature and NPP/SR for 2001-2024 or 2010-2019 for selected ecoregions
+- quantile_npp.ipynb/ quantile_nee.ipynb - ArcPy codes for quantile classifications of NPP/NEE data for each year
 
 ! There are no data files in this repository
